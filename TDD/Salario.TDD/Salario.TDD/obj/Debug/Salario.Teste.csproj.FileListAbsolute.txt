@@ -1,0 +1,5 @@
+E:\Dados\André\Documentos\Profissional\DevRioClaro\9° Encontro - Teste de software\Demos\Original\TDD\Salario.Teste\Salario.Teste\obj\Debug\Salario.Teste.csprojResolveAssemblyReference.cache
+E:\Dados\André\Documentos\Profissional\DevRioClaro\9° Encontro - Teste de software\Demos\Original\TDD\Salario.Teste\Salario.Teste\bin\Debug\Salario.Teste.dll
+E:\Dados\André\Documentos\Profissional\DevRioClaro\9° Encontro - Teste de software\Demos\Original\TDD\Salario.Teste\Salario.Teste\bin\Debug\Salario.Teste.pdb
+E:\Dados\André\Documentos\Profissional\DevRioClaro\9° Encontro - Teste de software\Demos\Original\TDD\Salario.Teste\Salario.Teste\obj\Debug\Salario.Teste.dll
+E:\Dados\André\Documentos\Profissional\DevRioClaro\9° Encontro - Teste de software\Demos\Original\TDD\Salario.Teste\Salario.Teste\obj\Debug\Salario.Teste.pdb
